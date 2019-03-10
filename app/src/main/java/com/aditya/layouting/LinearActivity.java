@@ -10,6 +10,7 @@ public class LinearActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_linear);
 
-        //TODO 1 : Buat Layout dengan ParentGroup LinearLayout pada activity_linear.xml
+        //TODO 1 : Ubah ParentView (ViewGroup pada activity_linear.xml menjadi LinearLayout
+        //TODO 2 : Buat Layout dengan ParentGroup LinearLayout pada activity_linear.xml
     }
 }
